@@ -53,7 +53,45 @@ https://www.youtube.com/watch?v=PywcAsMBiKs&pp=ygUOVGltIFNwYW5uIG5pZmk%3D
 
 https://www.youtube.com/watch?v=N0NLJo5y7RQ&pp=ygUOVGltIFNwYW5uIG5pZmk%3D
 
+https://www.youtube.com/watch?v=HxU73SAKlOI&t=2771s&pp=ygUOVGltIFNwYW5uIG5pZmk%3D
 
+https://www.youtube.com/watch?v=WvPqE8J3ZOE&t=1382s&pp=ygUOVGltIFNwYW5uIG5pZmk%3D
+
+https://www.youtube.com/watch?v=_orD9aAXk48&t=980s&pp=ygUOVGltIFNwYW5uIG5pZmk%3D
+
+https://www.youtube.com/watch?v=psnRObquBfw&t=642s&pp=ygUOVGltIFNwYW5uIG5pZmk%3D
+
+https://www.youtube.com/watch?v=EoKEl9q_H0c&t=5534s&pp=ygUOVGltIFNwYW5uIG5pZmk%3D
+
+https://www.youtube.com/watch?v=k1mANc88OJc&t=13s&pp=ygUOVGltIFNwYW5uIG5pZmk%3D
+
+https://www.youtube.com/watch?v=WQA8G5_cMcQ&t=2403s&pp=ygUOVGltIFNwYW5uIG5pZmk%3D
+
+https://www.youtube.com/watch?v=NMgkPFEQ0jA&pp=ygUOVGltIFNwYW5uIG5pZmk%3D
+
+https://www.youtube.com/watch?v=HeXTwpsIvxo&t=1766s&pp=ygUOVGltIFNwYW5uIG5pZmk%3D
+
+https://www.youtube.com/watch?v=zVp4dAn5cUY&pp=ygUOVGltIFNwYW5uIG5pZmk%3D
+
+https://www.youtube.com/watch?v=_uYp8s6_6GA&pp=ygUOVGltIFNwYW5uIG5pZmk%3D
+
+https://www.youtube.com/watch?v=IGs0k240zhU&t=118s&pp=ygUOVGltIFNwYW5uIG5pZmk%3D
+
+https://www.youtube.com/watch?v=9mYd4ISF8KY&pp=ygUOVGltIFNwYW5uIG5pZmk%3D
+
+https://www.youtube.com/watch?v=virKyKJlaDE&t=601s&ab_channel=DatainMotion-HowToBeaStreamingEngineer
+
+https://www.youtube.com/watch?v=NPWglZW3rig&t=2s&pp=ygUOVGltIFNwYW5uIG5pZmk%3D
+
+https://www.youtube.com/watch?v=7N6A0kdCPlQ&t=6s&pp=ygUOVGltIFNwYW5uIG5pZmk%3D
+
+https://www.youtube.com/watch?v=he7bcQDbAIQ&t=16s&pp=ygUOVGltIFNwYW5uIG5pZmk%3D
+
+https://www.youtube.com/watch?v=sTnyu3fRUwE&pp=ygUOVGltIFNwYW5uIG5pZmk%3D
+
+https://www.youtube.com/watch?v=PywcAsMBiKs&pp=ygUOVGltIFNwYW5uIG5pZmk%3D
+
+https://www.youtube.com/watch?v=5lFXI5333mg&t=4s&pp=ygUOVGltIFNwYW5uIG5pZmk%3D
 
 #### Meetups Managed
 
