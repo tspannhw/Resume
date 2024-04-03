@@ -18,16 +18,19 @@ I have been running well-attended meetups for years and will continue enabling o
 **Principal Developer Advocate**
 
 **Cloudera**
+
 Mar 2023 - Present 
 
 I am a Principal Developer Advocate, Field Engineer, Field PM  and Pre-Sales Streaming Technical Specialist in Data In Motion for Cloudera. He works with Apache NiFi, Apache Kafka, Apache Flink, LLM, GenerativeAI, Milvus, Pinecone, ChromaDB, Vector Database, WatsonX.AI, MiNiFi, DataFlow Designer, Apache Iceberg, PostgreSQL, Apache Spark, Java, Spring, Python, ML, IoT and AI.\
 
 **DevNetwork Advisory Board Member
 DevNetwork**
+
 Jan 2022 - Present
 
 **Developer Advocate
 StreamNative**
+
 Jul 2021 - Mar 2023
 
 I am a developer advocate covering StreamNative, Apache Pulsar, Apache Flink, FLiPN Stack, Real- Time Streaming, IoT.
