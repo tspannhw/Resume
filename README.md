@@ -26,6 +26,7 @@ https://dev.to/tspannhw
 
 https://community.cloudera.com/t5/user/viewprofilepage/user-id/31438
 
+
 #### Slides
 
 https://www.slideshare.net/bunkertor
@@ -44,6 +45,13 @@ https://flank.substack.com/
 
 https://www.youtube.com/@FLaNK-Stack
 
+https://www.youtube.com/watch?v=awxzG7laWx4&t=1080s&ab_channel=Conf42
+
+https://www.youtube.com/watch?v=dQ_IxQMbFRE&t=3s&pp=ygUOVGltIFNwYW5uIG5pZmk%3D
+
+https://www.youtube.com/watch?v=PywcAsMBiKs&pp=ygUOVGltIFNwYW5uIG5pZmk%3D
+
+https://www.youtube.com/watch?v=N0NLJo5y7RQ&pp=ygUOVGltIFNwYW5uIG5pZmk%3D
 
 
 
