@@ -34,40 +34,49 @@ I am a developer advocate covering StreamNative, Apache Pulsar, Apache Flink, FL
 
 **Principal DataFlow Field Engineer - Data In Motion
 Cloudera**
+
 May 2019 - Jul 2021
 
 I was responsible for providing the wins for large customers for streaming use cases including Fraud Detection, Predictive Maintenance, Change Data Capture and Real-Time Event Streaming Pipelines. I developed demos, materials, PoCs, slides, talks, conference talks, videos, webinars and training materials for Apache NiFi, Apache Flink, Apache Kafka, Jupyter Notebooks, Spark Streaming, Schema Registry, Edge Flow Manager, CDF, Cloudera, Apache NiFi MiNiFi Agents, Apache NiFi Registry, Kubernetes, Docker, Containers, Cloud, Big Data Ingest and various real-time and data technologies.
 
 **Senior Solutions Engineer
 Cloudera**
+
 Jan 2019 - May 2019
+
 I was a senior solutions engineer at Cloudera working on IoT, Real-Time Streaming, AI, Deep Learning, Machine Learning, Big Data, Hadoop, TensorFlow, MXNet, Zeppelin, NLTK, Hive, HBase, NiFi, MiniFi, Devices, Cryptocurrency, REST, Scala, Python, Java, Block Chain, Kafka, OpenCV, Tika, OpenNLP, CoreNLP and everything relation to Big Data.
 
 **Senior Solutions Engineer
 Hortonworks**
+
 Mar 2018 - Jan 2019
 
 I am a senior solutions engineer at Hortonworks working on IoT, Real-Time Streaming, AI, Deep Learning, Machine Learning, Big Data, Hadoop, TensorFlow, MXNet, Zeppelin, NLTK, Hive, HBase, NiFi, MiniFi, Devices, Cryptocurrency, REST, Scala, Python, Java, Block Chain, Kafka, OpenCV, Tika, OpenNLP, CoreNLP and everything relation to Big Data.
 
 **Solutions Engineer
 Hortonworks**
+
 Apr 2016 - Mar 2018
 
 Hortonworks Data Platform, Hortonworks Data Flow. Apache NiFi, Apache Spark, Hadoop, HBase, Hive, HDFS, Java, Scala, Zeppelin, Apache Ranger, Parquet, AVRO, ORCFile, ...
 
 **Senior Solutions Architect
 airisDATA (Big Data and ML Consultancy)**
+
 Nov 2015 - Apr 2016
+
 Big Data, Machine Learning, Scala, Cassandra, TitanDB, Spray, Apache Spark, NOSQL, Java, Scala, Python, CDAP, Hadoop, Hive, HBase, Spring XD, Redis, MongoDB, Postgresql, SQL, Sqoop, Pig, Linux, AWS, Spring Boot, D3, HTML5, Apache Drill, Hortonworks, Cloudera, CentOS.
 
 **Senior Software Engineer and Team Lead
 SecurityScorecard**
+
 Mar 2015 - Nov 2015
 
 Java, Spring, MongoDB, AWS, Cloud, Microservices, 12 factor applications, Spark, Big Data, Real Time Security Analytics, NodejS, HTML5, Akka, Hadoop, Scala, EC2, SQS, ActiveMQ, Spring Boot, Spring XD, Postgresql, Redis, Elasticache, JIRA, Scrum, RabbitMQ, Android, Java 8, Redshift, Kali Linux, WPScan, DKIM analysis, Twitter Streaming / Sentiment Analysis, Stanford NLP, Team lead.
 
 **Senior Field Engineer
 Pivotal Software**
+
 Jun 2014 - Mar 2015
 
 Pivotal One, Pivotal HD, Pivotal CF, Greenplum, Cloud Foundry, Spring, GemFire XD, Gemfire, VMware vFabric Suite, Cetas, RabbitMQ, Redis, Pivotal Big Data Suite, Pivotal tcServer, Spring XD, Spring Boot, Spring Data JPA, Spring Data Redis, HAWQ, R, Map Reduce, Hadoop, Spark, Oozie, Sqoop, Flume, JSON, Parquet, PXF, Shell, Java, Hortonworks Hadoop. 
@@ -88,10 +97,12 @@ Jan 2011 - Oct 2013
 Project Leader, Architect, Manager, Developer. Java, Agile, Scrum, J2EE, Oracle, Rational Rose, UML, Web Services, Websphere, Eclipse, Android.   Managing and developing for $100 Million Dollar State Project.
 
 **Education**
+
 Montclair State University, NJ - MS in Computer Science, Honors
 Montclair State University, NJ - BS in Computer Science, Honors
 
 **Awards**
+
 Cloudera Technical Specialist of the Year 2019
 Hortonworks SE TECH of the Year 2018
 Hortonworks SE TECH of 2017 Quarter 1
