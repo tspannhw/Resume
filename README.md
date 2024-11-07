@@ -56,7 +56,7 @@ https://flank.substack.com/
 #### Videos
 
 
-🌐 [My Data Engineering Youtube Channel](https://www.youtube.com/@FLaNK-Stack<br/>
+🌐 [My Data Engineering Youtube Channel](https://www.youtube.com/@FLaNK-Stack)<br/>
 
 🌐 [Unstructured Data Processing with a Raspberry Pi AI Kit - Hailo Edge AI Demo](https://www.youtube.com/watch?v=tZFJ1DDkD1Q)<br/>
 
@@ -72,9 +72,10 @@ https://flank.substack.com/
 
 🌐 [Building Apache NiFi 2.0 Python Processors | Tim Spann | Conf42 Python 2024](https://www.youtube.com/watch?v=awxzG7laWx4&t=1080s&ab_channel=Conf42)<br/>
 
-https://www.youtube.com/watch?v=dQ_IxQMbFRE&t=3s&pp=ygUOVGltIFNwYW5uIG5pZmk%3D
+🌐 [Apache NiFi 101: Introduction and Best Practices - Timothy Spann](https://www.youtube.com/watch?v=PywcAsMBiKs&pp=ygUOVGltIFNwYW5uIG5pZmk%3D)<br/>
 
-https://www.youtube.com/watch?v=PywcAsMBiKs&pp=ygUOVGltIFNwYW5uIG5pZmk%3D
+
+https://www.youtube.com/watch?v=dQ_IxQMbFRE&t=3s&pp=ygUOVGltIFNwYW5uIG5pZmk%3D
 
 https://www.youtube.com/watch?v=N0NLJo5y7RQ&pp=ygUOVGltIFNwYW5uIG5pZmk%3D
 
