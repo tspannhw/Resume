@@ -9,6 +9,7 @@ https://sessionize.com/tspann
 
 https://www.linkedin.com/in/timothyspann/
 
+
 #### Timothy Spann - Principal Developer Advocate @ Zilliz
 
 Tim Spann is a Principal Developer Advocate for Zilliz and Milvus. He works with Milvus, Attu, Generative AI, HuggingFace, Python, Java, Apache NiFi, Apache Kafka, Apache Pulsar, Apache Flink, Flink SQL, Apache Spark, Big Data, IoT, Cloud, AI/DL, Machine Learning, and Deep Learning. Tim has over ten years of experience with the IoT, big data, distributed computing, messaging, streaming technologies, and Java programming. Previously, he was a Principal Developer Advocate at Cloudera, Developer Advocate at StreamNative, Principal DataFlow Field Engineer at Cloudera, a Senior Solutions Engineer at Hortonworks, a Senior Solutions Architect at AirisData, a Senior Field Engineer at Pivotal and a Senior Team Leader at HPE. He blogs for DZone, where he is the Big Data Zone leader, and runs a popular meetup in Princeton & NYC on Big Data, Cloud, IoT, deep learning, streaming, NiFi, the blockchain, and Spark. Tim is a frequent speaker at conferences such as ApacheCon, DeveloperWeek, Pulsar Summit and many more. He holds a BS and MS in Computer Science.
@@ -39,7 +40,7 @@ https://community.cloudera.com/t5/user/viewprofilepage/user-id/31438
 https://www.slideshare.net/bunkertor
 
 
-#### Newsletter (6,200+)
+#### Newsletter (6,300+)
 
 https://www.linkedin.com/newsletters/flip-stack-weekly-6861715928728576000/
 
@@ -51,12 +52,21 @@ https://flank.substack.com/
 #### Videos
 
 
-
 🌐 [My Data Engineering Youtube Channel](https://www.youtube.com/@FLaNK-Stack<br/>
 
 🌐 [Unstructured Data Processing with a Raspberry Pi AI Kit - Hailo Edge AI Demo](https://www.youtube.com/watch?v=tZFJ1DDkD1Q)<br/>
 
-https://www.youtube.com/watch?v=awxzG7laWx4&t=1080s&ab_channel=Conf42
+🌐 [FLaNK-CDC with Debezium - Kafka, Kafka Connect, Flink SQL, NiFi](https://www.youtube.com/watch?v=NPWglZW3rig)<br/>
+
+🌐 [Flink SQL Client -- 2020](https://www.youtube.com/watch?v=7cuQgmi4Ufs)<br/>
+
+🌐 [Seamless Integration: Unleashing the Power of Real-Time Groceries with NiFi, Kafka, Flink and JQuery](https://www.youtube.com/watch?v=_uYp8s6_6GA)<br/>
+
+🌐 [Flink Forward Talk - Using the Mm FLaNK Stack for Edge AI (Flink, NiFi, Kafka, Kudu)](https://www.youtube.com/watch?v=qyC2UXf1XdY)<br/>
+
+🌐 [Continuous SQL](https://www.youtube.com/watch?v=k1mANc88OJc)<br/>
+
+🌐 [Building Apache NiFi 2.0 Python Processors | Tim Spann | Conf42 Python 2024](https://www.youtube.com/watch?v=awxzG7laWx4&t=1080s&ab_channel=Conf42)<br/>
 
 https://www.youtube.com/watch?v=dQ_IxQMbFRE&t=3s&pp=ygUOVGltIFNwYW5uIG5pZmk%3D
 
@@ -104,7 +114,12 @@ https://www.youtube.com/watch?v=PywcAsMBiKs&pp=ygUOVGltIFNwYW5uIG5pZmk%3D
 
 https://www.youtube.com/watch?v=5lFXI5333mg&t=4s&pp=ygUOVGltIFNwYW5uIG5pZmk%3D
 
+
 #### Meetups Managed
+
+https://www.meetup.com/unstructured-data-meetup-new-york/
+
+https://www.meetup.com/new-york-city-apache-pulsar-meetup/
 
 https://www.meetup.com/futureofdata-princeton/
 
