@@ -10,14 +10,18 @@ https://sessionize.com/tspann
 https://www.linkedin.com/in/timothyspann/
 
 
-#### Timothy Spann - Principal Developer Advocate @ Zilliz
+#### Principal Developer Advocate @ Zilliz
 
 Tim Spann is a Principal Developer Advocate for Zilliz and Milvus. He works with Milvus, Attu, Generative AI, HuggingFace, Python, Java, Apache NiFi, Apache Kafka, Apache Pulsar, Apache Flink, Flink SQL, Apache Spark, Big Data, IoT, Cloud, AI/DL, Machine Learning, and Deep Learning. Tim has over ten years of experience with the IoT, big data, distributed computing, messaging, streaming technologies, and Java programming. Previously, he was a Principal Developer Advocate at Cloudera, Developer Advocate at StreamNative, Principal DataFlow Field Engineer at Cloudera, a Senior Solutions Engineer at Hortonworks, a Senior Solutions Architect at AirisData, a Senior Field Engineer at Pivotal and a Senior Team Leader at HPE. He blogs for DZone, where he is the Big Data Zone leader, and runs a popular meetup in Princeton & NYC on Big Data, Cloud, IoT, deep learning, streaming, NiFi, the blockchain, and Spark. Tim is a frequent speaker at conferences such as ApacheCon, DeveloperWeek, Pulsar Summit and many more. He holds a BS and MS in Computer Science.
 
 
-#### Recent - Timothy Spann - Principal Developer Advocate @ Cloudera
+#### Recent - Principal Developer Advocate @ Cloudera
 
 Tim Spann is a Principal Developer Advocate, Streaming Specialist and Field Engineer in Data In Motion for Cloudera.  He works with Apache NiFi, Apache Kafka, Apache Pulsar, Apache Flink, Flink SQL, Apache Pinot, Trino, Apache Iceberg, DeltaLake, Apache Spark, Big Data, IoT, Cloud, AI/DL, machine learning, and deep learning. Tim has over ten years of experience with the IoT, big data, distributed computing, messaging, streaming technologies, and Java programming. Previously, he was a Developer Advocate at StreamNative, Principal DataFlow Field Engineer at Cloudera, a Senior Solutions Engineer at Hortonworks, a Senior Solutions Architect at AirisData, a Senior Field Engineer at Pivotal and a Team Leader at HPE. He blogs for DZone, where he is the Big Data Zone leader, and runs a popular meetup in Princeton & NYC on Big Data, Cloud, IoT, deep learning, streaming, NiFi, the blockchain, and Spark. Tim is a frequent speaker at conferences such as ApacheCon, DeveloperWeek, Pulsar Summit and many more. He holds a BS and MS in computer science.
+
+#### Recent - Principal DataFlow Field Engineer - Data In Motion Cloudera
+
+I was responsible for providing the wins for large customers for streaming use cases including Fraud Detection, Predictive Maintenance, Change Data Capture and Real-Time Event Streaming Pipelines. I developed demos, materials, PoCs, slides, talks, conference talks, videos, webinars and training materials for Apache NiFi, Apache Flink, Apache Kafka, Jupyter Notebooks, Spark Streaming, Schema Registry, Edge Flow Manager, CDF, Cloudera, Apache NiFi MiNiFi Agents, Apache NiFi Registry, Kubernetes, Docker, Containers, Cloud, Big Data Ingest and various real-time and data technologies.
 
 
 #### Blogs
