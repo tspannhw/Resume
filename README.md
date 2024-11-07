@@ -50,10 +50,11 @@ https://flank.substack.com/
 
 #### Videos
 
-https://www.youtube.com/@FLaNK-Stack
 
-![Unstructured Data Processing with a Raspberry Pi AI Kit - Hailo Edge AI Demo](https://www.youtube.com/watch?v=tZFJ1DDkD1Q)
 
+🌐 [My Data Engineering Youtube Channel](https://www.youtube.com/@FLaNK-Stack<br/>
+
+🌐 [Unstructured Data Processing with a Raspberry Pi AI Kit - Hailo Edge AI Demo](https://www.youtube.com/watch?v=tZFJ1DDkD1Q)<br/>
 
 https://www.youtube.com/watch?v=awxzG7laWx4&t=1080s&ab_channel=Conf42
 
